@@ -1,0 +1,16 @@
+C:\Users\koos\Documents\BMWTEST\BMWTEST\obj\x86\Release\BMWTEST.Properties.Resources.resources
+C:\Users\koos\Documents\BMWTEST\BMWTEST\obj\x86\Release\BMWTEST.csproj.GenerateResource.Cache
+C:\Users\koos\Documents\BMWTEST\BMWTEST\bin\Release\BMWTEST.exe
+C:\Users\koos\Documents\BMWTEST\BMWTEST\bin\Release\BMWTEST.pdb
+C:\Users\koos\Documents\BMWTEST\BMWTEST\obj\x86\Release\BMWTEST.csprojResolveAssemblyReference.cache
+C:\Users\koos\Documents\BMWTEST\BMWTEST\obj\x86\Release\BMWTEST.exe
+C:\Users\koos\Documents\BMWTEST\BMWTEST\obj\x86\Release\BMWTEST.pdb
+C:\Users\koos\Documents\BMWTEST\BMWTEST\obj\x86\Release\BMWTEST.Replicate.resources
+C:\BMWTEST\BMWTEST\obj\x86\Release\BMWTEST.csprojResolveAssemblyReference.cache
+C:\BMWTEST\BMWTEST\obj\x86\Release\BMWTEST.Properties.Resources.resources
+C:\BMWTEST\BMWTEST\obj\x86\Release\BMWTEST.Replicate.resources
+C:\BMWTEST\BMWTEST\obj\x86\Release\BMWTEST.csproj.GenerateResource.Cache
+C:\BMWTEST\BMWTEST\obj\x86\Release\BMWTEST.exe
+C:\BMWTEST\BMWTEST\bin\Release\BMWTEST.exe
+C:\BMWTEST\BMWTEST\bin\Release\BMWTEST.pdb
+C:\BMWTEST\BMWTEST\obj\x86\Release\BMWTEST.pdb

@@ -1,0 +1,15 @@
+C:\Users\koos\Documents\BMWTEST\BMWTEST\bin\Debug\BMWTEST.exe
+C:\Users\koos\Documents\BMWTEST\BMWTEST\bin\Debug\BMWTEST.pdb
+C:\Users\koos\Documents\BMWTEST\BMWTEST\obj\x86\Debug\BMWTEST.Properties.Resources.resources
+C:\Users\koos\Documents\BMWTEST\BMWTEST\obj\x86\Debug\BMWTEST.csproj.GenerateResource.Cache
+C:\Users\koos\Documents\BMWTEST\BMWTEST\obj\x86\Debug\BMWTEST.exe
+C:\Users\koos\Documents\BMWTEST\BMWTEST\obj\x86\Debug\BMWTEST.pdb
+C:\Users\koos\Documents\BMWTEST\BMWTEST\obj\x86\Debug\BMWTEST.Replicate.resources
+C:\BMWTEST\BMWTEST\obj\x86\Debug\BMWTEST.exe
+C:\BMWTEST\BMWTEST\obj\x86\Debug\BMWTEST.pdb
+C:\BMWTEST\BMWTEST\bin\Debug\BMWTEST.exe
+C:\BMWTEST\BMWTEST\bin\Debug\BMWTEST.pdb
+C:\BMWTEST\BMWTEST\obj\x86\Debug\BMWTEST.Properties.Resources.resources
+C:\BMWTEST\BMWTEST\obj\x86\Debug\BMWTEST.Replicate.resources
+C:\BMWTEST\BMWTEST\obj\x86\Debug\BMWTEST.csproj.GenerateResource.Cache
+C:\BMWTEST\BMWTEST\obj\x86\Debug\BMWTEST.csprojResolveAssemblyReference.cache
